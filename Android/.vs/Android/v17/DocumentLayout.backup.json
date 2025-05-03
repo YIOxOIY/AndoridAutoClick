@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharp_Work\\Android\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\operationplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\operationplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\fileselectorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:fileselectorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\operationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\operationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\framerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\framerecorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\jsontool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\jsontool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\vector2converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\vector2converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\fileselectorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:fileselectorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\obj\\debug\\net8.0-windows\\fileselectorwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:obj\\debug\\net8.0-windows\\fileselectorwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\ffmpegbinarieshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:ffmpegbinarieshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\usbdevicemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\usbdevicemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\recordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\recordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|e:\\csharp_work\\android\\logic\\h264decoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C993CA5-CBD7-48F2-9A4F-2F2ABD21D53D}|Android.csproj|solutionrelative:logic\\h264decoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAewMABAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T02:44:54.466Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\CSharp_Work\\Android\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-03T08:22:16.199Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileSelectorWindow.xaml",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\FileSelectorWindow.xaml",
+              "RelativeDocumentMoniker": "FileSelectorWindow.xaml",
+              "ToolTip": "E:\\CSharp_Work\\Android\\FileSelectorWindow.xaml",
+              "RelativeToolTip": "FileSelectorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-03T13:01:55.692Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSelectorWindow.xaml.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\FileSelectorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FileSelectorWindow.xaml.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\FileSelectorWindow.xaml.cs",
+              "RelativeToolTip": "FileSelectorWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:03:54.755Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationPlayer.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\OperationPlayer.cs",
+              "RelativeDocumentMoniker": "Logic\\OperationPlayer.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\OperationPlayer.cs",
+              "RelativeToolTip": "Logic\\OperationPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T13:29:23.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrameRecorder.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\FrameRecorder.cs",
+              "RelativeDocumentMoniker": "Logic\\FrameRecorder.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\FrameRecorder.cs",
+              "RelativeToolTip": "Logic\\FrameRecorder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:01:40.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonTool.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\JsonTool.cs",
+              "RelativeDocumentMoniker": "Logic\\JsonTool.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\JsonTool.cs",
+              "RelativeToolTip": "Logic\\JsonTool.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:28:51.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\CSharp_Work\\Android\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-03T12:36:44.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:36:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SerializationHelper.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\SerializationHelper.cs",
+              "RelativeDocumentMoniker": "Logic\\SerializationHelper.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\SerializationHelper.cs",
+              "RelativeToolTip": "Logic\\SerializationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:52:51.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vector2Converter.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\Vector2Converter.cs",
+              "RelativeDocumentMoniker": "Logic\\Vector2Converter.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\Vector2Converter.cs",
+              "RelativeToolTip": "Logic\\Vector2Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:00:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:02:53.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperationRecord.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\OperationRecord.cs",
+              "RelativeDocumentMoniker": "Logic\\OperationRecord.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\OperationRecord.cs",
+              "RelativeToolTip": "Logic\\OperationRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:45:04.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FFmpegBinariesHelper.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\FFmpegBinariesHelper.cs",
+              "RelativeDocumentMoniker": "FFmpegBinariesHelper.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\FFmpegBinariesHelper.cs",
+              "RelativeToolTip": "FFmpegBinariesHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:19:41.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecordHelper.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\RecordHelper.cs",
+              "RelativeDocumentMoniker": "Logic\\RecordHelper.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\RecordHelper.cs",
+              "RelativeToolTip": "Logic\\RecordHelper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:54:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileSelectorWindow.g.i.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\obj\\Debug\\net8.0-windows\\FileSelectorWindow.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\FileSelectorWindow.g.i.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\obj\\Debug\\net8.0-windows\\FileSelectorWindow.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\FileSelectorWindow.g.i.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:31:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsbDeviceMonitor.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\UsbDeviceMonitor.cs",
+              "RelativeDocumentMoniker": "Logic\\UsbDeviceMonitor.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\UsbDeviceMonitor.cs",
+              "RelativeToolTip": "Logic\\UsbDeviceMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:19:43.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "H264Decoder.cs",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\Logic\\H264Decoder.cs",
+              "RelativeDocumentMoniker": "Logic\\H264Decoder.cs",
+              "ToolTip": "E:\\CSharp_Work\\Android\\Logic\\H264Decoder.cs",
+              "RelativeToolTip": "Logic\\H264Decoder.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:15:01.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\CSharp_Work\\Android\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\CSharp_Work\\Android\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-03T14:15:49.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

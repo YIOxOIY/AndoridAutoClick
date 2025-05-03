@@ -1,0 +1,29 @@
+﻿<Window x:Class="ScreenMirror.FileSelectorWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="存档选择器" Height="320" Width="400"
+		ResizeMode="NoResize"
+		>
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="7*"/>
+			<ColumnDefinition Width="43*"/>
+		</Grid.ColumnDefinitions>
+		<StackPanel Margin="20,20,20,20" Grid.ColumnSpan="2">
+			<!-- 文件列表 -->
+			<ListView x:Name="fileList" Height="200">
+				<ListView.View>
+					<GridView>
+						<GridViewColumn Header="文件名" Width="200" 
+                                  DisplayMemberBinding="{Binding}"/>
+					</GridView>
+				</ListView.View>
+			</ListView>
+
+			<!-- 操作按钮 -->
+			<StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+				<Button Content="选择文件播放操作" Click="SelectFile_Click" Width="113" Margin="0,0,0,-1"/>
+			</StackPanel>
+		</StackPanel>
+	</Grid>
+</Window>
